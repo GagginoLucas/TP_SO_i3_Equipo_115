@@ -1,0 +1,3 @@
+Nombre: Leonardo De gregorio
+IP: 192.168.50.2
+Hora: 22:57:06

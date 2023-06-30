@@ -1,0 +1,9 @@
+Responde BETA, Lucas Gaggino:
+a-¿Como queda El master después de estos cambios?
+El master queda conteniendo al archivo beta.txt con las modificaciones realizadas por Alfa y gamma, con los cambios de las ramas correctamente realizados
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+si, beta pudo visualizar todos los cambios.
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+utilicé git merge DeGregorio, luego un git add, git commit-m y git push

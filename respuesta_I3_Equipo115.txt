@@ -19,3 +19,17 @@ git add beta.txt
 git commit -m gamma modifica beta.txt
 git push origin Gaggino
 
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git remote add upstream https://github.com/GagginoLucas/TP_SO_i3_Equipo_115.git
+git fetch upstream
+git checkout Gaggino
+git rebase upstream/Gaggino
+echo "Nombre: Juan Pablo Dongo Huaman" >> beta.txt
+echo "" >> beta.txt
+ifconfig >> beta.txt
+echo "" >> beta.txt
+echo "Hora: 23:04" >> beta.txt
+git add .
+git commit -m "ALFA Punto 8)"
+git push origin Gaggino
+

@@ -7,3 +7,15 @@ si, beta pudo visualizar todos los cambios.
 
 c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
 utilicé git merge DeGregorio, luego un git add, git commit-m y git push
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Si
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+No hubieron problemas
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+echo Nombre: Leonardo De Gregorio >> beta.txt
+ipconfig >> beta.txt
+echo 23:33:42 >> beta.txt
+git add beta.txt
+git commit -m gamma modifica beta.txt
+git push origin Gaggino
+
